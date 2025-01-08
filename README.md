@@ -6,7 +6,7 @@
 <h1 align="center">🌟 Assalamu Alaikum wa Rahmatullah! 👋</h1>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/md-himu-chowdhury/">
+    <a href="https://www.linkedin.com/in/himu-chowdhury/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/himu.chowdhury.73">
